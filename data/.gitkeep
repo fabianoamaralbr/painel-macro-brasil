@@ -1,0 +1,1 @@
+# Mantém a pasta de cache no repositório. Os CSVs baixados da API são ignorados (.gitignore).

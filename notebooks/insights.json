@@ -1,0 +1,24 @@
+{
+  "periodo": {
+    "inicio": "02/01/2015",
+    "fim": "12/08/2026",
+    "anos": 11.6
+  },
+  "selic_atual": 14.0,
+  "ipca_12m_atual": 4.44,
+  "juro_real_atual": 9.153581003446964,
+  "juro_real_medio": 4.255826055494514,
+  "juro_real_min": -4.950765864332607,
+  "juro_real_min_data": "08/2021",
+  "juro_real_max": 10.779308351796546,
+  "juro_real_max_data": "02/2026",
+  "cdi_acum_pct": 200.1429658225981,
+  "ipca_acum_pct": 86.31027239178928,
+  "cdi_real_acum_pct": 61.09845258098898,
+  "dolar_inicio": 2.6929,
+  "dolar_fim": 5.1859,
+  "dolar_max": 6.2086,
+  "dolar_max_data": "01/2025",
+  "dolar_vol_anual": 14.497785882281041,
+  "corr_selic_dolar": -0.06138925180228338
+}

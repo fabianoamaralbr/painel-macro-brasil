@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Cache local de dados (baixados da API do Banco Central em runtime)
+data/*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO / editor
+.DS_Store
+*.log
+.vscode/
+.idea/
